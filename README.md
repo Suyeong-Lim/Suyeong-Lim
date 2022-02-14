@@ -7,7 +7,7 @@
 <br/>
 
 + 👨‍💻 I’m currently learning **React, Next.js, JS, TS,**
-+ 👨‍🎓 Majer in Digital_Media _ Seoul Women's Univ.
++ 👨‍🎓 Majored in Digital_Media _at_ Seoul Women's Univ.
 + 👨‍🎓 Learning all about UX & UI
 + 📫 Reach me: tntn393@gmail.com
 
