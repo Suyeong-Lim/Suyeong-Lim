@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Suyeong</h1>
 
-### 🤓 About Me
+### 🐧 About Me
 <br/>
 
 
