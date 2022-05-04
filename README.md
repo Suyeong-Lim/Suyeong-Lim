@@ -1,5 +1,5 @@
 
-# <p><img width="200" src="https://user-images.githubusercontent.com/28384562/159737136-1938931f-1b1f-46a8-ac7b-c344840266b3.gif" /> Hi 👋, I'm Suyeong <p>
+# <p> Hi 👋, I'm Suyeong <p>
 
 
 ### 🐧 About Me
