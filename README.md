@@ -12,7 +12,7 @@
 + 📫 Contact me: tntn393@gmail.com
 + ✏️ Blog : https://penguin31.tistory.com/
 
-<br/>
+>
 <br/>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyeong-Lim&layout=compact)](https://github.com/Suyeong-Lim/github-readme-stats)
