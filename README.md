@@ -15,5 +15,4 @@
 >
 <br/>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyeong-Lim&layout=compact)](https://github.com/Suyeong-Lim/github-readme-stats)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Suyeong-Lim=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
